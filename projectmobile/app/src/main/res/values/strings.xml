@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">projectmobile</string>
+    <string-array name="type">
+        <item>กรุณาเลือกประเภท</item>
+        <item>portrait</item>
+        <item>landscape</item>
+    </string-array>
+</resources>
